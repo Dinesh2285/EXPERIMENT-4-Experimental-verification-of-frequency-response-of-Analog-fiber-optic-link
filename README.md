@@ -22,6 +22,23 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 - **Transmitter**: Converts the electrical input signal into optical (light) energy.
 - **Optical Fiber**: Serves as the transmission medium for the light signal.
 - **Receiver**: Converts the received light back into an electrical signal, preserving the original signal pattern.
+Fiber optic links can be used for transmission of digital as well as analog signals. Basically a fiber optic link contains three main elements, a transmitter, an optical fiber and a receiver. The transmitter module takes the input signal in electrical form and then transforms it into optical (light) energy containing the same information. The optical fiber is the medium which takes the energy to the receiver. At the receiver light is converted back into electrical form with the same pattern as originally fed to the transmitter.
+
+TRANSMITTER:
+Fiber Optic transmitters are typically composed of a buffer, driver and Optical Source. The buffer electronics provides both an electrical connection and isolation between the transmitter and the electrical system supplying the data. The driver electronics provides electrical power to the Optical source in a fashion that duplicates the pattern of data being fed to the transmitter. Finally the optical source (LED) converts the electrical current to light energy with the same pattern. The LED SFH450V (950nm) supplied with this kit operates outside the visible light spectrum. Its Optical output is centered at near infrared wavelength of 950nm. The LED SFH756V (660nm) supplied with this kit operates at the visible light spectrum. Its Optical output is centered at wavelength of 660nm.
+
+RECEIVER:
+The function of the receiver is to convert the optical energy into electrical form, which is then conditioned to reproduce the transmitted electrical signal in it's original form. The detector SFH350V (Photo Transistor Detector) used in the kit has a transistor type output. The parameters usually considered in the case of detector are it's responsivity at peak wavelength and response time. SFH350V (Photo Transistor Detector) has responsivity of about 0.8mA/10uW at 660nm. But its response time is quite large and thus has lower bandwidth of about 300 KHz. When optical signal falls on the base of the transistor detector, proportional
+ 
+current flows through its emitter generating the voltage across the resistance connected between emitter and ground. This voltage is the duplication of the transmitted electrical signal, which can be amplified.
+
+
+
+<img width="723" height="423" alt="image" src="https://github.com/user-attachments/assets/c47d8da0-eccb-4d5c-87f7-b5a0d51e7930" />
+
+
+
+<img width="838" height="431" alt="image" src="https://github.com/user-attachments/assets/49dee7d9-4458-43de-8f67-19627bbebb19" />
 
 ---
 
