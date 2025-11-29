@@ -71,6 +71,9 @@ To study an 660nm & 950nm Fiber Analog Link and to study the frequency response 
 
 ## MODEL GRAPH
 
+<img width="838" height="431" alt="image" src="https://github.com/user-attachments/assets/69cd5714-da1a-4a3d-9f8f-2c046a514900" />
+
+
 <img width="1040" height="800" alt="image" src="https://github.com/user-attachments/assets/31c27f9d-d09b-442f-9966-92a35dcd785e" />
 
 
