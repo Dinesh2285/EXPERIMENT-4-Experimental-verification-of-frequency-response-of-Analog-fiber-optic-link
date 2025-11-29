@@ -50,7 +50,11 @@ To study an 660nm & 950nm Fiber Analog Link and to study the frequency response 
 -  Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
 -  Observe the detected signal at post ANALOG OUT on oscilloscope.
 
+<img width="685" height="292" alt="image" src="https://github.com/user-attachments/assets/16e6960b-1337-468c-a691-98eb02d0b5f8" />
 
+<img width="743" height="301" alt="image" src="https://github.com/user-attachments/assets/92523088-6219-4395-948d-dc777ceeb4aa" />
+
+<img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/db37dde3-871b-4164-8e84-92c8cfd7c678" />
 
 ---
 
